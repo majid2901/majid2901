@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @majid2901
+- 👀 I’m interested in ExpertSystem and C++ and Delphi

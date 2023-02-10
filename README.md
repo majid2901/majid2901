@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @majid2901
-- 👀 I’m interested in ExpertSystem and C++ and Delphi
+- 👀 I’m interested in Expert Systems and C++ , Delphi , .Net Core ( C# ) , Golang and React.
